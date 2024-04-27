@@ -1,10 +1,10 @@
 # Data-cleaning-with-SQL
-his repository contains a data cleaning project in SQL, focusing on the layoffs.csv dataset. The purpose of this project is to demonstrate the process of importing data into a SQL database and performing various cleaning operations to ensure data quality and consistency.
+This repository contains a data cleaning project in SQL, focusing on the layoffs.csv dataset. The purpose of this project is to demonstrate the process of importing data into a SQL database and performing various cleaning operations to ensure data quality and consistency.
 
-#Dataset
+##Dataset
 The dataset used for this project is layoffs.csv, which presumably contains information about layoffs. It may include columns such as employee ID, department, date of layoff, reason for layoff, etc.
 
-Steps
+##Steps
 1. Importing Data
 To start the data cleaning process, the first step is to import the layoffs.csv dataset into a SQL database. This can be achieved using various methods such as using SQL's built-in IMPORT functionality or using third-party tools.
 
@@ -23,7 +23,7 @@ Not all columns in a dataset may be relevant to the analysis. In this step, we i
 6. Generating the New Dataset
 After performing the above cleaning operations, we obtain a new dataset with the necessary changes applied. This dataset is now ready for further analysis or visualization.
 
-Usage
+##Usage
 To replicate the data cleaning process:
 1.Ensure you have a SQL environment set up.
 2.Import the layoffs.csv dataset into your SQL database.
