@@ -1,4 +1,3 @@
-*.sql linguist-detectable=true
 create database world_layoffs;
 use world_layoffs;
 select * from layoffs;
